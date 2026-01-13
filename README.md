@@ -18,10 +18,10 @@ To set up and run this project locally:
 cd CSP451-CheckPoint1
 
 
-Open the main page in a browser:
+#Open the main page in a browser:
 Double-click index.html or open it in your preferred web browser.
 
-Usage Examples
+#Usage Examples
 
 Open index.html to view the main web page.
 
@@ -29,7 +29,7 @@ Open the browser console to see messages from script.js.
 
 Click the link to about.html to view personal information and GitHub links.
 
-Contributing Guidelines
+#Contributing Guidelines
 
 Fork the repository to make changes in your own branch.
 
@@ -54,6 +54,6 @@ Submit Pull Requests for review before merging changes to main.
 
 Test changes locally before committing.
 
-License Information
+#License Information
 
 This project is licensed only for academic.
