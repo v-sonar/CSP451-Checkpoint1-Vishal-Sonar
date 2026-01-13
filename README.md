@@ -13,15 +13,7 @@ To set up and run this project locally:
    ```bash
    https://github.com/v-sonar/CSP451-Checkpoint1-Vishal-Sonar.git
 
-#Navigate into the project folder:
-
-cd CSP451-CheckPoint1
-
-
-#Open the main page in a browser:
-Double-click index.html or open it in your preferred web browser.
-
-#Usage Examples
+## Usage
 
 Open index.html to view the main web page.
 
@@ -29,8 +21,10 @@ Open the browser console to see messages from script.js.
 
 Click the link to about.html to view personal information and GitHub links.
 
-#Contributing Guidelines
 
+## Contributing
+
+This project is part of an academic assignment. Contributions are not required, but suggestions and improvements are welcome.
 Fork the repository to make changes in your own branch.
 
 Commit changes using proper commit message format:
@@ -54,6 +48,7 @@ Submit Pull Requests for review before merging changes to main.
 
 Test changes locally before committing.
 
-#License Information
 
-This project is licensed only for academic.
+## License
+
+This project is licensed for academic purpose.
